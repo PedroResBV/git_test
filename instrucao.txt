@@ -1,1 +1,2 @@
-Redoing the process, do tutorial de Commit
+Redo the git process
+Translate the file
